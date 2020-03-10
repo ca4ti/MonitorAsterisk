@@ -90,7 +90,7 @@ done
 [excel2]:https://github.com/hudymoreira/MonitorAsterisk/blob/master/files/screenshot/excel2.png "resultado pesquisa"
 
 
-
+https://www.vivaolinux.com.br/artigo/Asterisk-Monitorando-ligacoes-gravadas-atraves-de-pagina-em-PHP
 
 
 
